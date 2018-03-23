@@ -1,0 +1,117 @@
+{
+
+  "sympozium": {
+    "id": 1,
+    "title": "Sympozium",
+    "tools": [
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "GSAP"
+    ],
+    "description": "Sympozium est une agence digitale fondée en 2013 par Frédéric Lackmy et David Janssen, deux directeurs artistiques. Ils m'ont accueilli l'été 2017 pour effectuer 2 mois de stage au sein de leur agence. C'est durant ce stage qu'ils ont souhaité la refonte totale de leur site web qui était vieillissant.",
+    "response": "L'équipe de Sympozium avait réalisé au préalable le design du nouveau site et ont fournis les PSD. Nous étions deux sur le projet, je me suis occupé de l'intégration des pages projets et contact. Nous ne nous sommes occupés uniquement de la partie front, le délai étant trop court pour commencer le back-end",
+    "cover": "sympozium.jpg",
+    "colors": {
+      "background": "#ec0928",
+      "text": "white"
+    },
+    "url": "https://www.sympozium.fr/",
+    "details": [
+      {
+        "title": "Page projet",
+        "thumbnails": ["sympozium3.jpg"]
+      },
+      {
+        "title": "Page contact",
+        "thumbnails": ["sympozium2.jpg"]
+      }
+    ]
+  },
+
+  "creacut": {
+    "id": 2,
+    "title": "Creacut",
+    "tools": [
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "Bootstrap",
+      "PHP",
+      "WordPress",
+      "SEO"
+    ],
+    "description": "Second projet réalisé lors de mon stage chez Sympozium. Créacut est un studio de production vidéo. Le client possédait déjà son propre site web basé sur le CMS Drupal. Le problème, il n’était pas du tout responsive. Le but était donc de créer un site responsive puis de passer du CMS Drupal à celui de WordPress.",
+    "response": "Départ d'une feuille blanche afin de rendre le site plus moderne et responsive tout en gardant les styles principaux, comme les polices et les couleurs, pour correspondre du mieux que possible à la demande du client.",
+    "cover": "creacut.jpg",
+    "colors": {
+      "background": "#252524",
+      "text": "white"
+    },
+    "url": "http://www.creacut.com/",
+    "details": [
+      {
+        "title": "Intégration d'iframe",
+        "thumbnails": ["creacut3.jpg", "creacut2.jpg"]
+      }
+    ]
+  },
+
+  "antracite": {
+    "id": 3,
+    "title": "Antracite",
+    "tools": [
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "Bootstrap",
+      "PHP",
+      "WordPress"
+    ],
+    "description": "Premier projet réalisé lors de mon stage chez Sympozium. Antracite est une jeune agence artistique qui souhaitait le développement de son site web. Le site est un portfolio ou le design est simple et épuré. La contrainte était d'utiliser le CMS Wordpress car le client souhaite avoir la main dessus en ayant la possibilité d’ajouter du contenu via l’interface admin de WordPress.",
+    "response": "Le design du site a été réalisé par le client. Développement du thème en statique puis intégration du thème maison dans le CMS WordPress. Travail réalisé en duo.",
+    "cover": "antracite.jpg",
+    "colors": {
+      "background": "#e6e6e6",
+      "text": "black"
+    },
+    "url": "http://www.antracite.fr/",
+    "details": [
+      {
+        "thumbnails": ["antracite2.jpg", "antracite3.jpg"]
+      }
+    ]
+  },
+
+  "olibrary": {
+    "id": 4,
+    "title": "OLibrary",
+    "tools": [
+      "HTML5",
+      "CSS3",
+      "Materialize",
+      "jQuery",
+      "PHP",
+      "Laravel5"
+    ],
+    "description": "Projet fil rouge de la première année, OLibrary regroupe la création de deux applications web. Un portail de gestion de fonds documentaires avec une base de données utilisateurs, et un catalogue public consultable contenant un moteur de recherche pour faciliter la navigation. Le tout doit être hébergé sur un serveur virtualisé Linux.",
+    "response": "En amont du développement, création des mockups, du MCD, du MPD et du MLD. Puis lors de la phase de développement mon rôle à été de fournir une interface admin clair au niveau front puis de rendre cette zone administrable côté back en offrant la possibilité de gérer des utilisateurs, des oeuvres, des auteurs et des autorités.",
+    "cover": "olibrary.jpg",
+    "colors": {
+      "background": "#3f51b5 ",
+      "text": "white"
+    },
+    "url": "https://github.com/arnaud420/OLibrary_laravel",
+    "details": [
+      {
+        "title": "Interface administrateur",
+        "thumbnails": ["olibrary3.png", "olibrary4.png"]
+      },
+      {
+        "title": "Affichage d'une oeuvre",
+        "thumbnails": ["olibrary2.jpeg"]
+      }
+    ]
+  }
+
+}
